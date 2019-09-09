@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3802" started-at="2019-09-09T09:07:13Z" finished-at="2019-09-09T09:07:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3802" started-at="2019-09-09T09:07:13Z" finished-at="2019-09-09T09:07:17Z">
+      <class name="com.restassured.validating.BDD.Style.RestAssured_BDD_Style_Validating.Test5_ReadResponseInDiffWays">
+        <test-method status="PASS" signature="testExtractDetailsUsingRespnse()[pri:0, instance:com.restassured.validating.BDD.Style.RestAssured_BDD_Style_Validating.Test5_ReadResponseInDiffWays@3ffc5af1]" name="testExtractDetailsUsingRespnse" duration-ms="3741" started-at="2019-09-09T09:07:13Z" finished-at="2019-09-09T09:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExtractDetailsUsingRespnse -->
+      </class> <!-- com.restassured.validating.BDD.Style.RestAssured_BDD_Style_Validating.Test5_ReadResponseInDiffWays -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
